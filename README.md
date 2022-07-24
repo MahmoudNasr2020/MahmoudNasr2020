@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nsr.digital/works](https://nsr.digital/works)
 
-- 💬 Ask me about **HTML,CSS,Bootstrap,Jquery,Vue,PHP,Laravel,My Sql**
+- 💬 Ask me about **HTML,CSS,Bootstrap,Jquery,Vue Js,React Js,PHP,Laravel,My Sql**
 
 - 📫 How to reach me **mmmnnn2016161515@gmail.com**
 
