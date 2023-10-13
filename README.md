@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mahmoud-nasr-62b9481b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-nasr-62b9481b9" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100011445331879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="id=100011445331879" height="30" width="40" /></a>
-<a href="https://wuzzuf.net/me/Mahmoud-Nasr-20395b7250" target="blank"><img align="center" src="https://wuzzuf.net/images/HomepageImages/wuzzuf-og-img.jpg" alt="id=100011445331879" height="30" width="40" /></a>
+<a href="https://wuzzuf.net/me/Mahmoud-Nasr-20395b7250" target="blank"><img align="center" src="https://www.efgev.com/wp-content/uploads/Wuzzuf-Logo-1.png" alt="id=100011445331879" height="30" width="40" /></a>
   
 </p>
 
