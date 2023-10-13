@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👨‍💻 All of my projects are available at [https://nsr.digital/works](https://nsr.digital/works)
+- 👨‍💻 All of my projects are available at [https://nasrfolio.online/projects](https://nasrfolio.online/projects)
 
 - 💬 Ask me about **HTML,CSS,Bootstrap,Jquery,Vue Js,React Js,PHP,Laravel,My Sql**
 
 - 📫 How to reach me **mmmnnn2016161515@gmail.com**
 
-- 📄 Know about my experiences [https://nsr.digital/resume](https://nsr.digital/resume)
+- 📄 Know about my experiences [https://nasrfolio.online](https://nasrfolio.online)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
